@@ -1,10 +1,10 @@
 {
-  "id": "./",
+  "id": "/kombucha/",
   "name": "Kombucha",
   "short_name": "Kombucha",
   "lang": "it",
-  "start_url": "./index.html",
-  "scope": "./",
+  "start_url": "/kombucha/index.html",
+  "scope": "/kombucha/",
   "display": "standalone",
   "background_color": "#f4f3eb",
   "theme_color": "#244d3b",
